@@ -27,3 +27,8 @@ A ref/handle is also supported to access the underlying Leaflet element with `ge
         attribution: "Historical building plan &copy; <a href='http://www.ign.es'>Instituto Geográfico Nacional de España</a>"
 	}}
 />
+```
+
+## Source Code
+
+The source code is available on [GitHub](https://github.com/AxiDreamdragon/react-leaflet-rotated-imageoverlay).
